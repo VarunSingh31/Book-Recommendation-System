@@ -1,4 +1,4 @@
-Books Recommender System 📚✨
+Books Recommender System | Collaborating filtering Based📚✨
 
 A Machine Learning powered web app that recommends books based on user preferences. Built using Streamlit.
 
